@@ -26,7 +26,7 @@ public:
     }
     int romanToInt(string s) {
         int ans=0;
-        for(int i=0; i<s.size(); i++){
+        for(int i=0; i<s.size()-1; i++){
              if(check(s[i])>=check(s[i+1])){
                 ans = ans + check(s[i]);
              }
@@ -34,7 +34,7 @@ public:
                 ans = ans - check(s[i]);
              }
         }
-        // ans=ans+
+        ans = ans+ check(s[s.size()-1]);
         return ans ;
     }
 };
