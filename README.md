@@ -10,7 +10,6 @@
 
   **Problem-Solving Enthusiast** | **200+ Problems Solved** | **Data Structures & Algorithms Proficiency**  
   <br />
-
 </div>
 
 ## 📈 LeetCode Stats
@@ -30,6 +29,18 @@ Across multiple data structures and algorithms:
 - **Problem-Solving Expertise:** Tackling complex problems from foundational concepts to advanced algorithms.  
 - **Consistency & Growth:** Regularly engaging with new challenges to deepen my knowledge in DSA.  
 <br />
+
+## 🔢 Detailed LeetCode Stats
+<div align="center">
+  
+| Category            | Problems Solved | Progress |
+|---------------------|-----------------|----------|
+| **Easy**            | 100+            | ![80%](https://progress-bar.dev/80/?width=100) |
+| **Medium**          | 80+             | ![60%](https://progress-bar.dev/60/?width=100) |
+| **Hard**            | 20+             | ![30%](https://progress-bar.dev/30/?width=100) |
+
+<br />
+</div>
 
 ## 🔍 LeetCode Profile
 
@@ -52,5 +63,3 @@ Feel free to reach out or connect with me on the following platforms:
 
 ### Thank You for Visiting! 🙏
 Your interest in my profile means a lot. Let's connect, collaborate, and grow together in the world of tech!  
-
-
