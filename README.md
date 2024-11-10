@@ -2,7 +2,7 @@
 <div align="center">
   <br />
   <a href="https://leetcode.com/u/kr_shivam9955/" target="_blank">
-    <img src="https://github.com/user-attachments/assets/bdde0e28-1f36-4293-8863-36c96e9b1c59" alt="LeetCode Profile Picture" style="width: 800px; height: 800px; border-radius: 50%;" />
+    <img src="https://github.com/user-attachments/assets/bdde0e28-1f36-4293-8863-36c96e9b1c59" alt="LeetCode Profile Picture" style="width: 1000px; height: 800px; border-radius: 50%;" />
   </a>
   <br />
 
